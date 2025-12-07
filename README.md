@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔐 Cybersecurity & Blue Team student  
+- 🔐 Cybersecurity & Computer Science  
 - 🎓 Studying at **Baku State University**  
 - 🛡️ Focus on detection, defense, IR, log analysis  
 - 🐧 Linux user (Mint)  
