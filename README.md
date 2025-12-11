@@ -66,19 +66,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaovs&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaovs&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaovs&theme=algolia&no-frame=true&no-bg=true&row=1&column=7">
-</p>
-
----
-
 ## 🎯 2025 Goals
 - Build a full homelab  
 - Publish cybersecurity projects  
