@@ -43,12 +43,45 @@
   <img src="./coding-cat.gif" width="80px">
 </p>
 
-### 🛠 Tools & Focus
-- Burp Suite • Wireshark • Nmap  
-- SIEM (ELK / Opensearch) • Sysmon • Log Analysis  
-- Virtualization: VMware / VirtualBox  
-- Containers: Docker  
-- Blue Team & DFIR workflows  
+---
+
+## 🔐 Cybersecurity Tools
+
+### 🛡 Blue Team / DFIR / Analysis
+<p align="left">
+  <img src="./logos/wireshark.png" width="55px" title="Wireshark">
+  <img src="./logos/sysmon.png" width="55px" title="Sysmon">
+  <img src="./logos/elastic.png" width="55px" title="ELK / Opensearch">
+  <img src="./logos/velociraptor.png" width="55px" title="Velociraptor">
+  <img src="./logos/cyberchef.png" width="55px" title="CyberChef">
+  <img src="./logos/autopsy.png" width="55px" title="Autopsy">
+  <img src="./logos/sleuthkit.png" width="55px" title="Sleuth Kit">
+  <img src="./logos/ftk.png" width="55px" title="FTK Imager">
+  <img src="./logos/yara.png" width="55px" title="YARA">
+  <img src="./logos/sigma.png" width="55px" title="Sigma Rules">
+</p>
+
+### 🌐 Networking & Scanning
+<p align="left">
+  <img src="./logos/nmap.png" width="55px" title="Nmap">
+  <img src="./logos/masscan.png" width="55px" title="Masscan">
+  <img src="./logos/netcat.png" width="55px" title="Netcat">
+</p>
+
+### 🧪 Web & App Security
+<p align="left">
+  <img src="./logos/burpsuite.png" width="55px" title="Burp Suite">
+  <img src="./logos/dirsearch.png" width="55px" title="Dirsearch">
+  <img src="./logos/gobuster.png" width="55px" title="Gobuster">
+</p>
+
+### 🧠 Malware & Memory Forensics
+<p align="left">
+  <img src="./logos/volatility.png" width="55px" title="Volatility">
+  <img src="./logos/pestudio.png" width="55px" title="PEStudio">
+  <img src="./logos/hashcat.png" width="55px" title="Hashcat">
+  <img src="./logos/john.png" width="55px" title="John the Ripper">
+</p>
 
 ---
 
