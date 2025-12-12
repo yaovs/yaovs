@@ -6,10 +6,6 @@
 <h3 align="center">Cybersecurity • Blue Team • DFIR • Linux • Automation</h3>
 
 <p align="center">
-  <img src="./hello-world.gif" width="260px">
-</p>
-
-<p align="center">
   <img src="./main-github.gif" width="260px">
 </p>
 
