@@ -77,7 +77,7 @@
   <a href="https://www.linkedin.com/in/yaovs/"><img src="./linkedin.gif" width="75px"></a>
   <a href="https://x.com/shalbuzov_ziya"><img src="./twitter.gif" width="75px"></a>
   <a href="https://tiktok.com/@shalbuzov_ziya"><img src="./tiktok.gif" width="75px"></a>
-  <a href="https://youtube.com/@yaovs"><img src="./youtube.gif" width="90px"></a>
+  <a href="https://youtube.com/@yaovs"><img src="./youtube.gif" width="75px"></a>
   <a href="#"><img src="./discord.gif" width="75px"></a>
 </p>
 
