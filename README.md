@@ -54,7 +54,6 @@
 ### 🌐 Networking & Scanning
 <p align="left">
   <img src="./logos/nmap.png" width="55px" title="Nmap">
-  <img src="./logos/masscan.png" width="55px" title="Masscan">
   <img src="./logos/netcat.png" width="55px" title="Netcat">
 </p>
 
