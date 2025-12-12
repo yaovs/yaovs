@@ -43,7 +43,6 @@
   <img src="./logos/elastic.png" width="55px" title="ELK / Opensearch">
   <img src="./logos/velociraptor.png" width="55px" title="Velociraptor">
   <img src="./logos/cyberchef.png" width="55px" title="CyberChef">
-  <img src="./logos/autopsy.png" width="55px" title="Autopsy">
   <img src="./logos/sleuthkit.png" width="55px" title="Sleuth Kit">
   <img src="./logos/ftk.png" width="55px" title="FTK Imager">
   <img src="./logos/yara.png" width="55px" title="YARA">
