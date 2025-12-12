@@ -17,12 +17,13 @@
 </p>
 
 - 🔐 Cybersecurity & Computer Science student  
-- 🎓 Studying CS at **Baku State University**  
-- 🛡️ Cybersecurity student at **TETYM**  
-- 🐧 Linux Mint user  
-- 🎯 Blue Team focused — Detection, Defense, IR, Log Analysis  
-- 🧪 I build labs, experiment, break things, fix things, and repeat  
-- 📚 Always learning through challenges, platforms, and real practice  
+- 🎓 CS student at **Baku State University**  
+- 🎓 Cybersecurity student at **TETYM**  
+- 🛡️ Blue Team focused: Detection, Defense, Logs, IR  
+- 🐧 Linux Mint user (daily)  
+- 🔍 Love building labs and learning by experimenting  
+- ⚡ Interests: SOC analysis, packet analysis, automation  
+- 🚀 Growing skills through platforms, practice, and real scenarios  
 
 ---
 
@@ -54,22 +55,36 @@
 
 ---
 
-## 🌐 Profiles
+## 🌐 Socials & Profiles
 
+### 🔒 Cybersecurity Platforms  
 <p align="left">
   <a href="https://tryhackme.com/p/yaovs"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://app.hackviser.com/profile/yaovs"><img src="https://img.shields.io/badge/Hackviser-blue?style=for-the-badge"></a>
+</p>
+
+### 🌍 Social Networks  
+<p align="left">
   <a href="https://www.linkedin.com/in/yaovs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/shalbuzov_ziya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/shalbuzov_ziya"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://medium.com/@shalbuzov_ziya"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://tiktok.com/@shalbuzov_ziya"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+</p>
+
+### 📺 Content Platforms  
+<p align="left">
+  <a href="https://youtube.com/@yaovs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🎯 2025 Goals
-- Build a complete cybersecurity homelab  
-- Publish practical cybersecurity projects  
+- Build a full cybersecurity homelab  
+- Publish real-world cybersecurity projects  
 - Improve automation with Python & Bash  
-- Advance Blue Team and SOC analysis skills  
-- Earn more TryHackMe and Hackviser achievements  
+- Advance Blue Team & SOC analysis skills  
+- Earn more platform achievements  
 
 ---
 
